@@ -1,0 +1,6 @@
+framework module CallHelloSDK {
+  umbrella header "CallHelloSDK.h"
+
+  export *
+  module * { export * }
+}
