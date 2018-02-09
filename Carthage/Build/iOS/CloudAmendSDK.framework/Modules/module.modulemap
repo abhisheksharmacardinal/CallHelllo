@@ -1,0 +1,6 @@
+framework module CloudAmendSDK {
+  umbrella header "CloudAmendSDK.h"
+
+  export *
+  module * { export * }
+}
