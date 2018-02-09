@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		58A842E0202E5B330017CD6E /* PrintHello.h in Headers */ = {isa = PBXBuildFile; fileRef = FC392190202B3D2E00A7F0F6 /* PrintHello.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FC39217C202B3D0A00A7F0F6 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FC39217B202B3D0A00A7F0F6 /* AppDelegate.m */; };
 		FC39217F202B3D0A00A7F0F6 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FC39217E202B3D0A00A7F0F6 /* ViewController.m */; };
 		FC392182202B3D0A00A7F0F6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC392180202B3D0A00A7F0F6 /* Main.storyboard */; };
@@ -135,6 +136,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FC39219C202B3D8E00A7F0F6 /* CallHelloSDK.h in Headers */,
+				58A842E0202E5B330017CD6E /* PrintHello.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
