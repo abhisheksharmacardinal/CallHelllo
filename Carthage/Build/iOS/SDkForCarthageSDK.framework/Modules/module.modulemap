@@ -1,0 +1,6 @@
+framework module SDkForCarthageSDK {
+  umbrella header "SDkForCarthageSDK.h"
+
+  export *
+  module * { export * }
+}
