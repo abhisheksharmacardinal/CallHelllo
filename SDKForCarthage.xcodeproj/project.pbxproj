@@ -18,6 +18,7 @@
 		5844B9AC2031FB8500D1434F /* SDkForCarthageSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5844B9A52031FB8400D1434F /* SDkForCarthageSDK.framework */; };
 		5844B9AD2031FB8500D1434F /* SDkForCarthageSDK.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 5844B9A52031FB8400D1434F /* SDkForCarthageSDK.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		5844B9B42031FB9A00D1434F /* SDKForCarthage.m in Sources */ = {isa = PBXBuildFile; fileRef = 5844B9B32031FB9A00D1434F /* SDKForCarthage.m */; };
+		5844B9E52031FD1300D1434F /* SDKForCarthage.h in Headers */ = {isa = PBXBuildFile; fileRef = 5844B9B22031FB9A00D1434F /* SDKForCarthage.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -162,6 +163,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5844B9A92031FB8500D1434F /* SDkForCarthageSDK.h in Headers */,
+				5844B9E52031FD1300D1434F /* SDKForCarthage.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
